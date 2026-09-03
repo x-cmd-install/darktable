@@ -1,0 +1,76 @@
+about:
+  description: darktable is an open source photography workflow application and raw developer
+  license: GPL-3.0
+  homepage: https://www.darktable.org
+  head: 2d3ca5c
+  archived: false
+  latestVersion: nightly
+  collectedAt: 2026-09-03T04:49:52Z
+timeline:
+  created: 2012-03-21
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 13014
+  watcher: 173
+  fork: 1416
+  release: 83
+  contributor: 556
+  pullRequest: 1690
+  issue: 9344
+language:
+  C: 18113433
+  Lua: 1316118
+  C++: 785699
+  CMake: 232775
+  Shell: 187706
+  CSS: 118546
+  JavaScript: 115023
+  Perl: 67652
+  Python: 51114
+  XSLT: 47872
+  Ruby: 44245
+  PowerShell: 27177
+  Objective-C++: 11622
+  Dockerfile: 7470
+  TeX: 4854
+  Nix: 4255
+  Batchfile: 3897
+  Assembly: 1705
+  Awk: 419
+  Makefile: 243
+  Emacs Lisp: 94
+totalLine: 21141919
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 2
+    mergedPR: 182
+    openPR: 23
+    closedIssue: 92
+    openIssue: 93
+    commit: 338
+  last90d:
+    since: 2026-06-05
+    release: 3
+    mergedPR: 392
+    openPR: 44
+    closedIssue: 202
+    openIssue: 179
+    commit: 767
+  last180d:
+    since: 2026-03-07
+    release: 3
+    mergedPR: 861
+    openPR: 56
+    closedIssue: 355
+    openIssue: 270
+    commit: 1771
+  last360d:
+    since: 2025-09-08
+    release: 5
+    mergedPR: 1399
+    openPR: 67
+    closedIssue: 685
+    openIssue: 470
+    commit: 3015
