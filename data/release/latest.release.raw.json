@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 171526664,
       "digest": "sha256:87088ada0a614c2c61c6bc663249388fe9e1d4b57689de3a5fd98c7af348d75d",
-      "download_count": 202,
+      "download_count": 212,
       "created_at": "2026-08-26T08:36:55Z",
       "updated_at": "2026-08-26T08:37:00Z",
       "browser_download_url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-aarch64.AppImage"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 293375,
       "digest": "sha256:857e98aa64bd448dbab7e7c189a13a7e38ed8d5cc478d8cf72adff7d16d6eef0",
-      "download_count": 63,
+      "download_count": 64,
       "created_at": "2026-08-26T08:36:54Z",
       "updated_at": "2026-08-26T08:36:55Z",
       "browser_download_url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-aarch64.AppImage.zsync"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 88199183,
       "digest": "sha256:155c25a48e06023eeeda3640f6f4fc7848bc1ad8e7384ba1d7b63098986fbeda",
-      "download_count": 14843,
+      "download_count": 14952,
       "created_at": "2026-08-26T08:37:12Z",
       "updated_at": "2026-08-26T08:37:15Z",
       "browser_download_url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-arm64.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 139586523,
       "digest": "sha256:bb15a8e4d24c21097cfdef0a560920f7fa0c05dec93482448dd538f2be02d6c4",
-      "download_count": 46806,
+      "download_count": 47062,
       "created_at": "2026-08-26T08:37:01Z",
       "updated_at": "2026-08-26T08:37:05Z",
       "browser_download_url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-win64.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 109812580,
       "digest": "sha256:b215de036ac2b5a7a1a5eaa98c4bd4e4d8b40a8d403e195d923c7541611f2e26",
-      "download_count": 4381,
+      "download_count": 4408,
       "created_at": "2026-08-26T08:37:05Z",
       "updated_at": "2026-08-26T08:37:09Z",
       "browser_download_url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-woa64.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 178289144,
       "digest": "sha256:867ba61fca41d614e6650fd92d6e7968d8c56a1d1dd2bbc3aa06b52508694ed6",
-      "download_count": 4084,
+      "download_count": 4095,
       "created_at": "2026-08-26T08:36:49Z",
       "updated_at": "2026-08-26T08:36:54Z",
       "browser_download_url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-x86_64.AppImage"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 304930,
       "digest": "sha256:b115c57635c102a631ba64871fe3f7c00c78c16134659cb7e85658926f61fe54",
-      "download_count": 2473,
+      "download_count": 2482,
       "created_at": "2026-08-26T08:36:48Z",
       "updated_at": "2026-08-26T08:36:48Z",
       "browser_download_url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-x86_64.AppImage.zsync"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 94068359,
       "digest": "sha256:ab09e11d548a7028f7bacc2bc4549a272c4e8d385be0e38ecc9e7943914abe61",
-      "download_count": 4288,
+      "download_count": 4326,
       "created_at": "2026-08-26T08:37:09Z",
       "updated_at": "2026-08-26T08:37:12Z",
       "browser_download_url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-x86_64.dmg"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 8396480,
       "digest": "sha256:e8b84ac98b0b689a244e4036c4b56394c1d58ce2d9abc05e0a060ef9f756dc36",
-      "download_count": 1709,
+      "download_count": 1722,
       "created_at": "2026-08-27T11:37:15Z",
       "updated_at": "2026-08-27T11:37:22Z",
       "browser_download_url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1.tar.xz"
