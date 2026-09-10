@@ -21,36 +21,50 @@ x install darktable
 ## Release
 
 - **Latest**: `nightly` (2026-08-27)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-10
 - **Assets in release**: 10
-- **Published**: 2026-08-27T07:02:41Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [Darktable-5.6.1-aarch64.AppImage](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-aarch64.AppImage) | 163.6 MiB | `other` |
+| [Darktable-5.6.1-aarch64.AppImage.zsync](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-aarch64.AppImage.zsync) | 286.5 KiB | `other` |
+| [darktable-5.6.1-arm64.dmg](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-arm64.dmg) | 84.1 MiB | `other` |
+| [darktable-5.6.1-win64.exe](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-win64.exe) | 133.1 MiB | `native/win/x64` |
+| [darktable-5.6.1-woa64.exe](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-woa64.exe) | 104.7 MiB | `other` |
+| [Darktable-5.6.1-x86_64.AppImage](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-x86_64.AppImage) | 170.0 MiB | `other` |
+| [Darktable-5.6.1-x86_64.AppImage.zsync](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-x86_64.AppImage.zsync) | 297.8 KiB | `other` |
+| [darktable-5.6.1-x86_64.dmg](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-x86_64.dmg) | 89.7 MiB | `other` |
+| [darktable-5.6.1.tar.xz](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1.tar.xz) | 8.0 MiB | `other` |
+| [darktable-5.6.1.tar.xz.asc](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1.tar.xz.asc) | 195 B | `other` |
 
 ## Popularity
 
-- **Stars**: 13,043 · **Forks**: 1,425 · **Open issues**: 9,376 · **Contributors**: 556
+- **Stars**: 13,046 · **Forks**: 1,425 · **Open issues**: 9,379 · **Contributors**: 556
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 11102 · **Open PRs**: 66 · **Closed issues**: 8770 · **Open issues**: 606 · **Commits**: 47190
+- **Releases**: 83 · **Merged PRs**: 11104 · **Open PRs**: 70 · **Closed issues**: 8770 · **Open issues**: 609 · **Commits**: 47193
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 196 | 17 | 91 | 88 | 321 |
-| 90d | 2026-06-12 | 3 | 418 | 36 | 222 | 176 | 833 |
-| 360d | 2025-09-15 | 5 | 1437 | 58 | 712 | 462 | 3070 |
+| 30d | 2026-08-11 | 2 | 198 | 21 | 91 | 91 | 324 |
+| 90d | 2026-06-12 | 3 | 420 | 40 | 222 | 179 | 836 |
+| 360d | 2025-09-15 | 5 | 1439 | 62 | 712 | 465 | 3073 |
 
 ## Code size
 
-Total: **725,259** lines of code across **942** files in the top 5 languages.
+Total: **727,166** lines of code across **944** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 378,262 | 53,316 | 60,053 | 518 |
+| C | 380,101 | 53,525 | 60,402 | 519 |
 | Json | 213,154 | 0 | 0 | 8 |
 | Lua | 28,956 | 121 | 386 | 14 |
-| CHeader | 28,195 | 16,680 | 7,625 | 326 |
+| CHeader | 28,244 | 16,705 | 7,644 | 327 |
 | Svg | 19,508 | 75 | 74 | 76 |
 
 ## OpenSSF Scorecard
@@ -68,8 +82,8 @@ Lowest-scoring checks:
 Install metadata for darktable lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `darktable` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/darktable.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/darktable.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:36:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:32:19Z._
