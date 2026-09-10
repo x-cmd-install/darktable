@@ -2,12 +2,12 @@ about:
   description: "darktable is an open source photography workflow application and raw developer"
   license: GPL-3.0
   homepage: https://www.darktable.org
-  head: 9297990
+  head: 64b08ef
   archived: false
   latestVersion: "nightly"
   latestRelease: "release-5.6.1"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T16:30:50Z
+  collectedAt: 2026-09-10T21:04:34Z
 timeline:
   created: 2012-03-21
   lastCommit: 2026-09-10
@@ -15,18 +15,18 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 2026-09-10
 popularity:
-  star: 13046
+  star: 13047
   watcher: 174
   fork: 1425
   release: 83
   contributor: 556
-  pullRequest: 12798
-  issue: 9379
+  pullRequest: 12799
+  issue: 9380
 language:
-  C: 19030955
+  C: 19031106
   Lua: 1316118
   C++: 788976
-  CMake: 236667
+  CMake: 236647
   Shell: 187746
   CSS: 119291
   JavaScript: 115023
@@ -44,71 +44,71 @@ language:
   Awk: 419
   Makefile: 243
   Emacs Lisp: 94
-totalBytes: 22067871
+totalBytes: 22068002
 recent:
   last30d:
     since: 2026-08-11
     release: 2
-    mergedPR: 198
-    openPR: 21
-    closedIssue: 91
+    mergedPR: 200
+    openPR: 20
+    closedIssue: 92
     openIssue: 91
-    commit: 324
+    commit: 328
   last60d:
     since: 2026-07-12
     release: 2
-    mergedPR: 327
-    openPR: 25
-    closedIssue: 161
+    mergedPR: 329
+    openPR: 24
+    closedIssue: 162
     openIssue: 135
-    commit: 702
+    commit: 706
   last90d:
     since: 2026-06-12
     release: 3
-    mergedPR: 420
-    openPR: 40
-    closedIssue: 222
+    mergedPR: 422
+    openPR: 39
+    closedIssue: 223
     openIssue: 179
-    commit: 836
+    commit: 840
   last180d:
     since: 2026-03-14
     release: 3
-    mergedPR: 889
-    openPR: 51
-    closedIssue: 375
+    mergedPR: 891
+    openPR: 50
+    closedIssue: 376
     openIssue: 268
-    commit: 1754
+    commit: 1758
   last360d:
     since: 2025-09-15
     release: 5
-    mergedPR: 1439
-    openPR: 62
-    closedIssue: 712
+    mergedPR: 1441
+    openPR: 61
+    closedIssue: 713
     openIssue: 465
-    commit: 3073
+    commit: 3077
   last720d:
     since: 2024-09-20
     release: 9
-    mergedPR: 2325
-    openPR: 66
-    closedIssue: 1493
+    mergedPR: 2327
+    openPR: 65
+    closedIssue: 1494
     openIssue: 537
-    commit: 5245
+    commit: 5249
 total:
   release: 83
-  mergedPR: 11104
-  openPR: 70
-  closedIssue: 8770
+  mergedPR: 11106
+  openPR: 69
+  closedIssue: 8771
   openIssue: 609
-  commit: 47193
+  commit: 47197
 ---
 path: /home/runner/.x-repo/github.com/darktable-org/darktable
-collectedAt: 2026-09-10T16:32:12Z
+collectedAt: 2026-09-10T21:05:44Z
 loc:
   C:
-    code: 380101
-    comments: 53525
-    blanks: 60402
+    code: 380103
+    comments: 53526
+    blanks: 60403
     files: 519
   Json:
     code: 213154
@@ -262,8 +262,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 5094
-    blanks: 1981
+    comments: 5096
+    blanks: 1982
     files: 36
   Text:
     code: 0
@@ -271,9 +271,9 @@ loc:
     blanks: 110
     files: 7
 total:
-  code: 728559
-  comments: 83522
-  blanks: 79594
+  code: 728561
+  comments: 83525
+  blanks: 79596
   files: 1251
 ---
 date: "2026-09-07"
