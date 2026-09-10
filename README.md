@@ -12,6 +12,28 @@ darktable is an open source photography workflow application and raw developer
 x install darktable
 ```
 
+## Code insight
+
+Total: **727,168** lines of code across **944** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 380,103 | 53,526 | 60,403 | 519 |
+| Json | 213,154 | 0 | 0 | 8 |
+| Lua | 28,956 | 121 | 386 | 14 |
+| CHeader | 28,244 | 16,705 | 7,644 | 327 |
+| Svg | 19,508 | 75 | 74 | 76 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.6 / 10**
+
+Lowest-scoring checks:
+
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/darktable-org/darktable>
@@ -23,6 +45,25 @@ x install darktable
 - **Latest**: `nightly` (2026-08-27)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 10
+
+## Popularity
+
+- **Stars**: 13,047 · **Forks**: 1,425 · **Open issues**: 9,380 · **Contributors**: 556
+
+## Totals (cumulative)
+
+- **Releases**: 83 · **Merged PRs**: 11106 · **Open PRs**: 69 · **Closed issues**: 8771 · **Open issues**: 609 · **Commits**: 47197
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 200 | 20 | 92 | 91 | 328 |
+| last60d | 2026-07-12 | 2 | 329 | 24 | 162 | 135 | 706 |
+| 90d | 2026-06-12 | 3 | 422 | 39 | 223 | 179 | 840 |
+| last180d | 2026-03-14 | 3 | 891 | 50 | 376 | 268 | 1758 |
+| 360d | 2025-09-15 | 5 | 1441 | 61 | 713 | 465 | 3077 |
+| last720d | 2024-09-20 | 9 | 2327 | 65 | 1494 | 537 | 5249 |
 
 ## Release assets
 
@@ -39,43 +80,23 @@ x install darktable
 | [darktable-5.6.1.tar.xz](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1.tar.xz) | 8.0 MiB | `other` |
 | [darktable-5.6.1.tar.xz.asc](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1.tar.xz.asc) | 195 B | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 13,046 · **Forks**: 1,425 · **Open issues**: 9,379 · **Contributors**: 556
+Reported by **181** distros on [repology.org](https://repology.org/project/darktable). **36** are ✅ on the latest upstream release, **113** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 83 · **Merged PRs**: 11104 · **Open PRs**: 70 · **Closed issues**: 8770 · **Open issues**: 609 · **Commits**: 47193
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 198 | 21 | 91 | 91 | 324 |
-| 90d | 2026-06-12 | 3 | 420 | 40 | 222 | 179 | 836 |
-| 360d | 2025-09-15 | 5 | 1439 | 62 | 712 | 465 | 3073 |
-
-## Code size
-
-Total: **727,166** lines of code across **944** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| C | 380,101 | 53,525 | 60,402 | 519 |
-| Json | 213,154 | 0 | 0 | 8 |
-| Lua | 28,956 | 121 | 386 | 14 |
-| CHeader | 28,244 | 16,705 | 7,644 | 327 |
-| Svg | 19,508 | 75 | 74 | 76 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.6 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Security-Policy** (0/10) — security policy file not detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `5.4.1` | ⚠️ outdated |
+| Debian 14 | `5.4.1` | ⚠️ outdated |
+| Debian 13 | `5.0.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `5.4.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `4.6.1` | ⚠️ outdated |
+| Arch | `5.6.1` | ✅ latest |
+| Fedora rawhide | `5.6.1` | ✅ latest |
+| Nix unstable | `5.6.0` | ⚠️ outdated |
+| Void | `5.6.0` | ⚠️ outdated |
+| Alpine edge | `5.6.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `5.6.1` | ✅ latest |
 
 ## Improve this data
 
@@ -86,4 +107,4 @@ Install metadata for darktable lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:32:19Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:05:52Z._
