@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly"
   latestRelease: "release-5.6.1"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T21:04:34Z
+  collectedAt: 2026-09-10T22:50:54Z
 timeline:
   created: 2012-03-21
   lastCommit: 2026-09-10
@@ -103,7 +103,7 @@ total:
   commit: 47197
 ---
 path: /home/runner/.x-repo/github.com/darktable-org/darktable
-collectedAt: 2026-09-10T21:05:44Z
+collectedAt: 2026-09-10T22:52:16Z
 loc:
   C:
     code: 380103
