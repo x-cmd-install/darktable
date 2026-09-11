@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 200 | 20 | 92 | 91 | 328 |
-| last60d | 2026-07-12 | 2 | 329 | 24 | 162 | 135 | 706 |
-| 90d | 2026-06-12 | 3 | 422 | 39 | 223 | 179 | 840 |
-| last180d | 2026-03-14 | 3 | 891 | 50 | 376 | 268 | 1758 |
-| 360d | 2025-09-15 | 5 | 1441 | 61 | 713 | 465 | 3077 |
-| last720d | 2024-09-20 | 9 | 2327 | 65 | 1494 | 537 | 5249 |
+| 30d | 2026-08-12 | 2 | 199 | 21 | 87 | 90 | 328 |
+| last60d | 2026-07-13 | 2 | 323 | 25 | 162 | 135 | 706 |
+| 90d | 2026-06-13 | 3 | 417 | 40 | 222 | 178 | 840 |
+| last180d | 2026-03-15 | 3 | 886 | 51 | 370 | 264 | 1758 |
+| 360d | 2025-09-16 | 5 | 1435 | 62 | 713 | 464 | 3077 |
+| last720d | 2024-09-21 | 9 | 2322 | 65 | 1490 | 537 | 5241 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for darktable lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:52:25Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:35:22Z._
