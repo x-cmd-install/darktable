@@ -2,33 +2,33 @@ about:
   description: "darktable is an open source photography workflow application and raw developer"
   license: GPL-3.0
   homepage: https://www.darktable.org
-  head: 64b08ef
+  head: 30344e0
   archived: false
   latestVersion: "nightly"
   latestRelease: "release-5.6.1"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-11T04:33:51Z
+  collectedAt: 2026-09-11T20:23:58Z
 timeline:
   created: 2012-03-21
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-11
   lastRelease: 2026-08-27
   lastPrerelease: 2026-09-11
 popularity:
-  star: 13047
+  star: 13049
   watcher: 174
   fork: 1425
   release: 83
   contributor: 556
-  pullRequest: 12800
-  issue: 9380
+  pullRequest: 12803
+  issue: 9385
 language:
-  C: 19031106
+  C: 19045721
   Lua: 1316118
   C++: 788976
   CMake: 236647
   Shell: 187746
-  CSS: 119291
+  CSS: 119399
   JavaScript: 115023
   Perl: 67652
   Python: 51590
@@ -44,71 +44,71 @@ language:
   Awk: 419
   Makefile: 243
   Emacs Lisp: 94
-totalBytes: 22068002
+totalBytes: 22082725
 recent:
   last30d:
     since: 2026-08-12
     release: 2
-    mergedPR: 199
-    openPR: 21
-    closedIssue: 87
-    openIssue: 90
-    commit: 328
+    mergedPR: 201
+    openPR: 22
+    closedIssue: 88
+    openIssue: 94
+    commit: 340
   last60d:
     since: 2026-07-13
     release: 2
-    mergedPR: 323
-    openPR: 25
-    closedIssue: 162
-    openIssue: 135
-    commit: 706
+    mergedPR: 325
+    openPR: 26
+    closedIssue: 163
+    openIssue: 139
+    commit: 718
   last90d:
     since: 2026-06-13
     release: 3
-    mergedPR: 417
-    openPR: 40
-    closedIssue: 222
-    openIssue: 178
-    commit: 840
+    mergedPR: 419
+    openPR: 41
+    closedIssue: 223
+    openIssue: 182
+    commit: 852
   last180d:
     since: 2026-03-15
     release: 3
-    mergedPR: 886
-    openPR: 51
-    closedIssue: 370
-    openIssue: 264
-    commit: 1758
+    mergedPR: 888
+    openPR: 52
+    closedIssue: 371
+    openIssue: 268
+    commit: 1770
   last360d:
     since: 2025-09-16
     release: 5
-    mergedPR: 1435
-    openPR: 62
-    closedIssue: 713
-    openIssue: 464
-    commit: 3077
+    mergedPR: 1437
+    openPR: 63
+    closedIssue: 714
+    openIssue: 468
+    commit: 3089
   last720d:
     since: 2024-09-21
     release: 9
-    mergedPR: 2322
-    openPR: 65
-    closedIssue: 1490
-    openIssue: 537
-    commit: 5241
+    mergedPR: 2324
+    openPR: 66
+    closedIssue: 1491
+    openIssue: 541
+    commit: 5253
 total:
   release: 83
-  mergedPR: 11106
-  openPR: 69
-  closedIssue: 8771
-  openIssue: 609
-  commit: 47197
+  mergedPR: 11108
+  openPR: 70
+  closedIssue: 8772
+  openIssue: 613
+  commit: 47209
 ---
 path: /home/runner/.x-repo/github.com/darktable-org/darktable
-collectedAt: 2026-09-11T04:35:11Z
+collectedAt: 2026-09-11T20:25:15Z
 loc:
   C:
-    code: 380103
-    comments: 53526
-    blanks: 60403
+    code: 380186
+    comments: 53617
+    blanks: 60411
     files: 519
   Json:
     code: 213154
@@ -121,9 +121,9 @@ loc:
     blanks: 386
     files: 14
   CHeader:
-    code: 28244
-    comments: 16705
-    blanks: 7644
+    code: 28276
+    comments: 16740
+    blanks: 7646
     files: 327
   Svg:
     code: 19508
@@ -151,7 +151,7 @@ loc:
     blanks: 1120
     files: 100
   Css:
-    code: 3443
+    code: 3446
     comments: 755
     blanks: 657
     files: 39
@@ -262,7 +262,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 5096
+    comments: 5098
     blanks: 1982
     files: 36
   Text:
@@ -271,9 +271,9 @@ loc:
     blanks: 110
     files: 7
 total:
-  code: 728561
-  comments: 83525
-  blanks: 79596
+  code: 728679
+  comments: 83653
+  blanks: 79606
   files: 1251
 ---
 date: "2026-09-07"
