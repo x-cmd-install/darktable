@@ -14,14 +14,14 @@ x install darktable
 
 ## Code insight
 
-Total: **727,301** lines of code across **944** files in the top 5 languages.
+Total: **727,404** lines of code across **944** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 380,201 | 53,635 | 60,415 | 519 |
-| Json | 213,154 | 0 | 0 | 8 |
+| C | 380,247 | 53,644 | 60,423 | 519 |
+| Json | 213,191 | 0 | 0 | 8 |
 | Lua | 28,956 | 121 | 386 | 14 |
-| CHeader | 28,276 | 16,740 | 7,646 | 327 |
+| CHeader | 28,287 | 16,743 | 7,646 | 327 |
 | Svg | 19,508 | 75 | 74 | 76 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-08-27)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-13
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 13,063 · **Forks**: 1,426 · **Open issues**: 9,393 · **Contributors**: 556
+- **Stars**: 13,068 · **Forks**: 1,426 · **Open issues**: 9,396 · **Contributors**: 556
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 11117 · **Open PRs**: 71 · **Closed issues**: 8778 · **Open issues**: 615 · **Commits**: 47223
+- **Releases**: 83 · **Merged PRs**: 11123 · **Open PRs**: 72 · **Closed issues**: 8784 · **Open issues**: 612 · **Commits**: 47231
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 195 | 23 | 82 | 95 | 257 |
-| last60d | 2026-07-15 | 2 | 329 | 27 | 165 | 142 | 709 |
-| 90d | 2026-06-15 | 3 | 422 | 41 | 222 | 188 | 827 |
-| last180d | 2026-03-17 | 3 | 881 | 53 | 370 | 271 | 1678 |
-| 360d | 2025-09-18 | 5 | 1438 | 64 | 713 | 469 | 3016 |
-| last720d | 2024-09-23 | 9 | 2328 | 67 | 1492 | 542 | 5257 |
+| 30d | 2026-08-15 | 2 | 192 | 23 | 81 | 89 | 265 |
+| last60d | 2026-07-16 | 2 | 333 | 28 | 170 | 140 | 717 |
+| 90d | 2026-06-16 | 3 | 424 | 41 | 227 | 186 | 835 |
+| last180d | 2026-03-18 | 3 | 875 | 54 | 371 | 269 | 1686 |
+| 360d | 2025-09-19 | 5 | 1439 | 65 | 718 | 467 | 3024 |
+| last720d | 2024-09-24 | 9 | 2330 | 68 | 1497 | 538 | 5256 |
 
 ## Release assets
 
@@ -80,24 +80,6 @@ Lowest-scoring checks:
 | [darktable-5.6.1.tar.xz](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1.tar.xz) | 8.0 MiB | `other` |
 | [darktable-5.6.1.tar.xz.asc](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1.tar.xz.asc) | 195 B | `other` |
 
-## Distribution status
-
-Reported by **181** distros on [repology.org](https://repology.org/project/darktable). **36** are ✅ on the latest upstream release, **113** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `5.4.1` | ⚠️ outdated |
-| Debian 14 | `5.4.1` | ⚠️ outdated |
-| Debian 13 | `5.0.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `5.4.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `4.6.1` | ⚠️ outdated |
-| Arch | `5.6.1` | ✅ latest |
-| Fedora rawhide | `5.6.1` | ✅ latest |
-| Nix unstable | `5.6.0` | ⚠️ outdated |
-| Void | `5.6.0` | ⚠️ outdated |
-| Alpine edge | `5.6.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `5.6.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for darktable lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `darktable` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -107,4 +89,4 @@ Install metadata for darktable lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:49:33Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:52:22Z._
