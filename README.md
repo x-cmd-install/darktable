@@ -4,7 +4,7 @@
 
 darktable is an open source photography workflow application and raw developer
 
-![darktable](https://repo.x-cmd.io/darktable.svg)
+[![x-cmd/install — darktable Code Quality Monitoring Repo Card](https://repo.x-cmd.io/darktable.svg)](https://x-cmd.com/install/darktable)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install darktable
 
 ## Code insight
 
-Total: **728,887** lines of code across **950** files in the top 5 languages.
+Total: **730,739** lines of code across **951** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 381,575 | 53,967 | 60,713 | 524 |
+| C | 383,419 | 54,116 | 61,092 | 525 |
 | Json | 213,191 | 0 | 0 | 8 |
 | Lua | 28,956 | 121 | 386 | 14 |
-| CHeader | 28,341 | 16,830 | 7,658 | 328 |
+| CHeader | 28,341 | 16,831 | 7,658 | 328 |
 | Svg | 19,508 | 75 | 74 | 76 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-08-27)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 13,090 · **Forks**: 1,435 · **Open issues**: 9,405 · **Contributors**: 558
+- **Stars**: 13,106 · **Forks**: 1,434 · **Open issues**: 9,408 · **Contributors**: 560
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 11154 · **Open PRs**: 74 · **Closed issues**: 8804 · **Open issues**: 601 · **Commits**: 47297
+- **Releases**: 83 · **Merged PRs**: 11167 · **Open PRs**: 77 · **Closed issues**: 8810 · **Open issues**: 598 · **Commits**: 47326
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 192 | 26 | 70 | 84 | 331 |
-| last60d | 2026-07-20 | 2 | 351 | 32 | 168 | 138 | 783 |
-| 90d | 2026-06-20 | 3 | 435 | 38 | 223 | 179 | 901 |
-| last180d | 2026-03-22 | 3 | 876 | 57 | 367 | 257 | 1752 |
-| 360d | 2025-09-23 | 5 | 1454 | 67 | 720 | 459 | 3091 |
-| last720d | 2024-09-28 | 9 | 2349 | 70 | 1507 | 527 | 5298 |
+| 30d | 2026-08-21 | 2 | 192 | 30 | 69 | 79 | 298 |
+| last60d | 2026-07-22 | 2 | 358 | 35 | 170 | 135 | 676 |
+| 90d | 2026-06-22 | 2 | 440 | 41 | 221 | 172 | 907 |
+| last180d | 2026-03-24 | 3 | 869 | 59 | 367 | 251 | 1710 |
+| 360d | 2025-09-25 | 5 | 1463 | 70 | 721 | 455 | 3094 |
+| last720d | 2024-09-30 | 9 | 2354 | 73 | 1504 | 523 | 5297 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for darktable lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:46:58Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:02:02Z._
