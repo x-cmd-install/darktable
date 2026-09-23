@@ -4,7 +4,7 @@
 
 darktable is an open source photography workflow application and raw developer
 
-[![x-cmd/install — darktable Code Quality Monitoring Repo Card](https://repo.x-cmd.io/darktable.svg?lang=zh)](https://x-cmd.com/install/darktable)
+[![x-cmd/install — darktable Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/darktable.svg?lang=zh)](https://x-cmd.com/install/darktable)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install darktable
 
 ## 代码洞察
 
-合计: **731,280** 行代码（覆盖前 5 种语言、共 **951** 个文件）。
+合计: **731,282** 行代码（覆盖前 5 种语言、共 **951** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 383,949 | 54,215 | 61,153 | 525 |
+| C | 383,951 | 54,215 | 61,152 | 525 |
 | Json | 213,191 | 0 | 0 | 8 |
 | Lua | 28,956 | 121 | 386 | 14 |
 | CHeader | 28,349 | 16,841 | 7,660 | 328 |
@@ -26,7 +26,7 @@ x install darktable
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.6 / 10**
+总评分: **5.3 / 10**
 
 评分最低的几项:
 
@@ -43,27 +43,27 @@ x install darktable
 ## 发布
 
 - **最新版本**: `nightly` (2026-08-27)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 13,110 · **Fork**: 1,438 · **开放 issue**: 9,413 · **贡献者**: 561
+- **Star**: 13,116 · **Fork**: 1,440 · **开放 issue**: 9,419 · **贡献者**: 561
 
 ## 累计统计
 
-- **发布数**: 83 · **已合并 PR**: 11179 · **开放 PR**: 75 · **已关闭 issue**: 8814 · **开放 issue**: 599 · **提交数**: 47347
+- **发布数**: 83 · **已合并 PR**: 11180 · **开放 PR**: 79 · **已关闭 issue**: 8815 · **开放 issue**: 604 · **提交数**: 47350
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 187 | 26 | 67 | 76 | 320 |
-| last60d | 2026-07-24 | 2 | 366 | 33 | 166 | 131 | 698 |
-| 90d | 2026-06-24 | 2 | 448 | 39 | 220 | 171 | 929 |
-| last180d | 2026-03-26 | 3 | 875 | 57 | 366 | 251 | 1732 |
-| 360d | 2025-09-27 | 5 | 1472 | 68 | 723 | 456 | 3116 |
-| last720d | 2024-10-02 | 9 | 2361 | 71 | 1505 | 524 | 5308 |
+| 30d | 2026-08-24 | 2 | 183 | 30 | 67 | 79 | 323 |
+| last60d | 2026-07-25 | 2 | 365 | 36 | 164 | 135 | 701 |
+| 90d | 2026-06-25 | 2 | 448 | 43 | 218 | 174 | 932 |
+| last180d | 2026-03-27 | 3 | 873 | 61 | 366 | 252 | 1735 |
+| 360d | 2025-09-28 | 5 | 1469 | 72 | 723 | 461 | 3119 |
+| last720d | 2024-10-03 | 9 | 2356 | 75 | 1500 | 529 | 5269 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ darktable 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:01:55Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:47:08Z._
