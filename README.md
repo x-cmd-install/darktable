@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,116 · **Forks**: 1,440 · **Open issues**: 9,419 · **Contributors**: 561
+- **Stars**: 13,124 · **Forks**: 1,441 · **Open issues**: 9,420 · **Contributors**: 561
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 11180 · **Open PRs**: 79 · **Closed issues**: 8815 · **Open issues**: 604 · **Commits**: 47350
+- **Releases**: 83 · **Merged PRs**: 11180 · **Open PRs**: 85 · **Closed issues**: 8815 · **Open issues**: 605 · **Commits**: 47350
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 2 | 183 | 30 | 67 | 79 | 323 |
-| last60d | 2026-07-25 | 2 | 365 | 36 | 164 | 135 | 701 |
-| 90d | 2026-06-25 | 2 | 448 | 43 | 218 | 174 | 932 |
-| last180d | 2026-03-27 | 3 | 873 | 61 | 366 | 252 | 1735 |
-| 360d | 2025-09-28 | 5 | 1469 | 72 | 723 | 461 | 3119 |
-| last720d | 2024-10-03 | 9 | 2356 | 75 | 1500 | 529 | 5269 |
+| 30d | 2026-08-25 | 2 | 179 | 36 | 63 | 76 | 323 |
+| last60d | 2026-07-26 | 2 | 355 | 42 | 159 | 132 | 701 |
+| 90d | 2026-06-26 | 2 | 447 | 49 | 215 | 175 | 932 |
+| last180d | 2026-03-28 | 3 | 870 | 67 | 365 | 251 | 1735 |
+| 360d | 2025-09-29 | 5 | 1469 | 78 | 720 | 462 | 3119 |
+| last720d | 2024-10-04 | 9 | 2351 | 81 | 1497 | 530 | 5261 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for darktable lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T04:47:07Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:44:42Z._
