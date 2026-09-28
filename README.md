@@ -26,7 +26,7 @@ Total: **731,522** lines of code across **951** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,139 · **Forks**: 1,444 · **Open issues**: 9,431 · **Contributors**: 563
+- **Stars**: 13,147 · **Forks**: 1,445 · **Open issues**: 9,432 · **Contributors**: 563
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 11212 · **Open PRs**: 74 · **Closed issues**: 8828 · **Open issues**: 603 · **Commits**: 47389
+- **Releases**: 83 · **Merged PRs**: 11212 · **Open PRs**: 84 · **Closed issues**: 8829 · **Open issues**: 603 · **Commits**: 47389
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 197 | 24 | 61 | 67 | 266 |
-| last60d | 2026-07-29 | 2 | 376 | 32 | 165 | 128 | 674 |
-| 90d | 2026-06-29 | 2 | 468 | 37 | 219 | 169 | 922 |
-| last180d | 2026-03-31 | 3 | 890 | 56 | 370 | 248 | 1693 |
-| 360d | 2025-10-02 | 5 | 1498 | 67 | 731 | 459 | 3081 |
-| last720d | 2024-10-07 | 9 | 2368 | 70 | 1501 | 529 | 5249 |
+| 30d | 2026-08-29 | 1 | 189 | 31 | 58 | 56 | 266 |
+| last60d | 2026-07-30 | 2 | 374 | 42 | 164 | 127 | 674 |
+| 90d | 2026-06-30 | 2 | 463 | 46 | 218 | 163 | 922 |
+| last180d | 2026-04-01 | 3 | 887 | 66 | 370 | 248 | 1693 |
+| 360d | 2025-10-03 | 5 | 1496 | 77 | 731 | 458 | 3081 |
+| last720d | 2024-10-08 | 9 | 2366 | 80 | 1502 | 529 | 5236 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for darktable lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:17:24Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:22:08Z._
