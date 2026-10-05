@@ -14,19 +14,19 @@ x install darktable
 
 ## Code insight
 
-Total: **736,320** lines of code across **956** files in the top 5 languages.
+Total: **736,314** lines of code across **956** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 388,680 | 55,098 | 61,678 | 528 |
+| C | 388,677 | 55,104 | 61,682 | 528 |
 | Json | 213,191 | 0 | 0 | 8 |
 | Lua | 28,956 | 121 | 386 | 14 |
-| CHeader | 28,488 | 17,019 | 7,702 | 330 |
+| CHeader | 28,488 | 17,020 | 7,702 | 330 |
 | Svg | 19,508 | 75 | 74 | 76 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
@@ -42,43 +42,42 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `nightly` (2026-08-27)
-- **Last commit**: 2026-10-03
-- **Assets in release**: 10
+- **Latest**: `nightly` (2026-10-04)
+- **Last commit**: 2026-10-04
+- **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 13,188 · **Forks**: 1,451 · **Open issues**: 9,465 · **Contributors**: 565
+- **Stars**: 13,192 · **Forks**: 1,451 · **Open issues**: 9,467 · **Contributors**: 565
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 11266 · **Open PRs**: 73 · **Closed issues**: 8883 · **Open issues**: 582 · **Commits**: 47518
+- **Releases**: 84 · **Merged PRs**: 11270 · **Open PRs**: 73 · **Closed issues**: 8887 · **Open issues**: 580 · **Commits**: 47531
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 1 | 194 | 21 | 61 | 57 | 231 |
-| last60d | 2026-08-05 | 2 | 396 | 32 | 180 | 119 | 609 |
-| 90d | 2026-07-06 | 2 | 501 | 36 | 238 | 158 | 980 |
-| last180d | 2026-04-07 | 3 | 915 | 55 | 394 | 245 | 1729 |
-| 360d | 2025-10-09 | 5 | 1527 | 66 | 767 | 443 | 3125 |
-| last720d | 2024-10-14 | 9 | 2394 | 69 | 1538 | 511 | 5296 |
+| 30d | 2026-09-05 | 2 | 192 | 21 | 58 | 52 | 244 |
+| last60d | 2026-08-06 | 3 | 396 | 32 | 179 | 117 | 622 |
+| 90d | 2026-07-07 | 3 | 503 | 35 | 242 | 155 | 993 |
+| last180d | 2026-04-08 | 4 | 914 | 55 | 397 | 242 | 1742 |
+| 360d | 2025-10-10 | 6 | 1528 | 66 | 771 | 440 | 3138 |
+| last720d | 2024-10-15 | 10 | 2394 | 69 | 1539 | 509 | 5282 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [Darktable-5.6.1-aarch64.AppImage](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-aarch64.AppImage) | 163.6 MiB | `other` |
-| [Darktable-5.6.1-aarch64.AppImage.zsync](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-aarch64.AppImage.zsync) | 286.5 KiB | `other` |
-| [darktable-5.6.1-arm64.dmg](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-arm64.dmg) | 84.1 MiB | `other` |
-| [darktable-5.6.1-win64.exe](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-win64.exe) | 133.1 MiB | `native/win/x64` |
-| [darktable-5.6.1-woa64.exe](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-woa64.exe) | 104.7 MiB | `other` |
-| [Darktable-5.6.1-x86_64.AppImage](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-x86_64.AppImage) | 170.0 MiB | `other` |
-| [Darktable-5.6.1-x86_64.AppImage.zsync](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-x86_64.AppImage.zsync) | 297.8 KiB | `other` |
-| [darktable-5.6.1-x86_64.dmg](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-x86_64.dmg) | 89.7 MiB | `other` |
-| [darktable-5.6.1.tar.xz](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1.tar.xz) | 8.0 MiB | `other` |
-| [darktable-5.6.1.tar.xz.asc](https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1.tar.xz.asc) | 195 B | `other` |
+| [Darktable-5.6.2-aarch64.AppImage](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/Darktable-5.6.2-aarch64.AppImage) | 163.7 MiB | `other` |
+| [Darktable-5.6.2-aarch64.AppImage.zsync](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/Darktable-5.6.2-aarch64.AppImage.zsync) | 286.7 KiB | `other` |
+| [darktable-5.6.2-arm64.dmg](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2-arm64.dmg) | 84.8 MiB | `other` |
+| [darktable-5.6.2-win64.exe](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2-win64.exe) | 132.4 MiB | `native/win/x64` |
+| [darktable-5.6.2-woa64.exe](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2-woa64.exe) | 102.9 MiB | `other` |
+| [Darktable-5.6.2-x86_64.AppImage](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/Darktable-5.6.2-x86_64.AppImage) | 170.1 MiB | `other` |
+| [Darktable-5.6.2-x86_64.AppImage.zsync](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/Darktable-5.6.2-x86_64.AppImage.zsync) | 297.9 KiB | `other` |
+| [darktable-5.6.2.tar.xz](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2.tar.xz) | 8.1 MiB | `other` |
+| [darktable-5.6.2.tar.xz.asc](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2.tar.xz.asc) | 195 B | `other` |
 
 ## Improve this data
 
@@ -89,4 +88,4 @@ Install metadata for darktable lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T05:57:29Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:37:51Z._
