@@ -14,11 +14,11 @@ x install darktable
 
 ## Code insight
 
-Total: **737,481** lines of code across **957** files in the top 5 languages.
+Total: **737,535** lines of code across **957** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 389,284 | 55,131 | 61,683 | 529 |
+| C | 389,338 | 55,152 | 61,690 | 529 |
 | Json | 213,191 | 0 | 0 | 8 |
 | Lua | 28,956 | 121 | 386 | 14 |
 | CHeader | 28,719 | 17,054 | 7,721 | 330 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,272 · **Forks**: 1,468 · **Open issues**: 9,503 · **Contributors**: 568
+- **Stars**: 13,273 · **Forks**: 1,469 · **Open issues**: 9,506 · **Contributors**: 569
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 11304 · **Open PRs**: 84 · **Closed issues**: 8930 · **Open issues**: 573 · **Commits**: 47619
+- **Releases**: 84 · **Merged PRs**: 11309 · **Open PRs**: 85 · **Closed issues**: 8932 · **Open issues**: 574 · **Commits**: 47637
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 2 | 168 | 29 | 50 | 57 | 266 |
-| last60d | 2026-08-14 | 3 | 379 | 42 | 166 | 121 | 634 |
-| 90d | 2026-07-15 | 3 | 513 | 45 | 256 | 161 | 1064 |
-| last180d | 2026-04-16 | 4 | 916 | 64 | 418 | 245 | 1792 |
-| 360d | 2025-10-18 | 6 | 1542 | 77 | 791 | 443 | 3192 |
-| last720d | 2024-10-23 | 10 | 2408 | 80 | 1565 | 505 | 5303 |
+| 30d | 2026-09-14 | 2 | 165 | 30 | 51 | 58 | 282 |
+| last60d | 2026-08-15 | 3 | 375 | 42 | 162 | 118 | 650 |
+| 90d | 2026-07-16 | 3 | 516 | 46 | 258 | 162 | 1080 |
+| last180d | 2026-04-17 | 4 | 919 | 65 | 419 | 246 | 1808 |
+| 360d | 2025-10-19 | 6 | 1544 | 78 | 789 | 442 | 3208 |
+| last720d | 2024-10-24 | 10 | 2408 | 81 | 1566 | 506 | 5321 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for darktable lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:59:05Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:54:19Z._
