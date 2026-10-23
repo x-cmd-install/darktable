@@ -14,11 +14,11 @@ x install darktable
 
 ## Code insight
 
-Total: **775,293** lines of code across **1020** files in the top 5 languages.
+Total: **775,314** lines of code across **1020** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 422,751 | 65,191 | 65,899 | 573 |
+| C | 422,761 | 65,191 | 65,901 | 573 |
 | Json | 213,881 | 0 | 0 | 9 |
 | CHeader | 29,971 | 19,206 | 8,017 | 347 |
 | Lua | 29,080 | 136 | 414 | 15 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-10-04)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 13,305 · **Forks**: 1,486 · **Open issues**: 9,556 · **Contributors**: 572
+- **Stars**: 13,308 · **Forks**: 1,489 · **Open issues**: 9,558 · **Contributors**: 573
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 11390 · **Open PRs**: 78 · **Closed issues**: 8985 · **Open issues**: 571 · **Commits**: 47852
+- **Releases**: 84 · **Merged PRs**: 11392 · **Open PRs**: 82 · **Closed issues**: 8988 · **Open issues**: 570 · **Commits**: 47858
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 192 | 22 | 79 | 58 | 402 |
-| last60d | 2026-08-23 | 3 | 396 | 32 | 170 | 116 | 765 |
-| 90d | 2026-07-24 | 3 | 575 | 39 | 280 | 160 | 1218 |
-| last180d | 2026-04-25 | 4 | 967 | 57 | 448 | 250 | 1919 |
-| 360d | 2025-10-27 | 6 | 1601 | 71 | 815 | 434 | 3341 |
-| last720d | 2024-11-01 | 10 | 2467 | 74 | 1603 | 504 | 5490 |
+| 30d | 2026-09-23 | 2 | 187 | 26 | 80 | 58 | 404 |
+| last60d | 2026-08-24 | 3 | 393 | 36 | 170 | 115 | 767 |
+| 90d | 2026-07-25 | 3 | 575 | 42 | 279 | 159 | 1220 |
+| last180d | 2026-04-26 | 4 | 967 | 61 | 449 | 250 | 1921 |
+| 360d | 2025-10-28 | 6 | 1600 | 75 | 817 | 432 | 3343 |
+| last720d | 2024-11-02 | 10 | 2466 | 78 | 1603 | 503 | 5485 |
 
 ## Release assets
 
@@ -79,6 +79,24 @@ Lowest-scoring checks:
 | [darktable-5.6.2.tar.xz](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2.tar.xz) | 8.1 MiB | `other` |
 | [darktable-5.6.2.tar.xz.asc](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2.tar.xz.asc) | 195 B | `other` |
 
+## Distribution status
+
+Reported by **183** distros on [repology.org](https://repology.org/project/darktable). **33** are ✅ on the latest upstream release, **113** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `5.4.1` | ⚠️ outdated |
+| Debian 14 | `5.4.1` | ⚠️ outdated |
+| Debian 13 | `5.0.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `5.4.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `4.6.1` | ⚠️ outdated |
+| Arch | `5.6.2` | ✅ latest |
+| Fedora rawhide | `5.6.1` | ⚠️ outdated |
+| Nix unstable | `5.6.2` | ✅ latest |
+| Void | `5.6.0` | ⚠️ outdated |
+| Alpine edge | `5.6.2` | ✅ latest |
+| openSUSE Tumbleweed | `5.6.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for darktable lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `darktable` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +106,4 @@ Install metadata for darktable lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:40:51Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:42:34Z._
