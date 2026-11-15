@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-10-04)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-14
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 13,442 · **Forks**: 1,524 · **Open issues**: 9,643 · **Contributors**: 580
+- **Stars**: 13,448 · **Forks**: 1,524 · **Open issues**: 9,648 · **Contributors**: 580
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 11635 · **Open PRs**: 102 · **Closed issues**: 9084 · **Open issues**: 559 · **Commits**: 48441
+- **Releases**: 84 · **Merged PRs**: 11636 · **Open PRs**: 110 · **Closed issues**: 9090 · **Open issues**: 558 · **Commits**: 48442
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 298 | 47 | 76 | 55 | 675 |
-| last60d | 2026-09-15 | 2 | 483 | 56 | 143 | 100 | 1061 |
-| 90d | 2026-08-16 | 3 | 684 | 66 | 256 | 154 | 1423 |
-| last180d | 2026-05-18 | 4 | 1100 | 84 | 470 | 252 | 2274 |
-| 360d | 2025-11-19 | 6 | 1764 | 95 | 836 | 415 | 3707 |
-| last720d | 2024-11-24 | 10 | 2630 | 99 | 1663 | 493 | 5876 |
+| 30d | 2026-10-16 | 1 | 285 | 54 | 71 | 58 | 538 |
+| last60d | 2026-09-16 | 2 | 475 | 64 | 143 | 101 | 979 |
+| 90d | 2026-08-17 | 3 | 678 | 74 | 254 | 157 | 1353 |
+| last180d | 2026-05-19 | 4 | 1096 | 92 | 471 | 256 | 2184 |
+| 360d | 2025-11-20 | 6 | 1765 | 103 | 834 | 419 | 3685 |
+| last720d | 2024-11-25 | 10 | 2630 | 107 | 1665 | 493 | 5872 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **185** distros on [repology.org](https://repology.org/project/darktable). **40** are ✅ on the latest upstream release, **108** are ⚠️ on an older version.
+Reported by **185** distros on [repology.org](https://repology.org/project/darktable). **41** are ✅ on the latest upstream release, **108** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -106,4 +106,4 @@ Install metadata for darktable lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:17:38Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:22:46Z._
