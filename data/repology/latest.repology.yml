@@ -13,7 +13,7 @@
   srcname: darktable64
   binname: darktable64
   visiblename: Darktable 64 Bit
-  version: 5.0.1
+  version: 3.8.1
   origversion: null
   status: legacy
   licenses:
@@ -24,7 +24,7 @@
   srcname: darktable64
   binname: darktable64
   visiblename: Darktable 64 Bit
-  version: "5"
+  version: "4"
   origversion: null
   status: legacy
   licenses:
@@ -35,7 +35,7 @@
   srcname: darktable64
   binname: darktable64
   visiblename: Darktable 64 Bit
-  version: 4.6.1
+  version: 4.0.1
   origversion: null
   status: legacy
   licenses:
@@ -46,7 +46,7 @@
   srcname: darktable64
   binname: darktable64
   visiblename: Darktable 64 Bit
-  version: "5.2"
+  version: "4.2"
   origversion: null
   status: legacy
   licenses:
@@ -57,7 +57,7 @@
   srcname: darktable64
   binname: darktable64
   visiblename: Darktable 64 Bit
-  version: 5.2.1
+  version: 4.2.1
   origversion: null
   status: legacy
   licenses:
@@ -75,17 +75,6 @@
     - Freeware
   categories:
     - Photo
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: darktable
-  binname: darktable
-  visiblename: darktable
-  version: 5.6.1
-  origversion: 2:5.6.1-3
-  status: outdated
-  summary: Utility to organize and develop raw images
-  licenses:
-    - GPL-3.0-or-later
 - repo: npackd_stable64
   srcname: darktable64
   binname: darktable64
@@ -93,6 +82,188 @@
   version: 5.4.1
   origversion: null
   status: outdated
+  licenses:
+    - Freeware
+  categories:
+    - Photo
+- repo: pld
+  srcname: darktable
+  visiblename: darktable
+  version: 5.6.2
+  origversion: 5.6.2-1
+  status: newest
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: darktable
+  binnames:
+    - darktable
+  visiblename: darktable
+  version: 2.6.0
+  origversion: 2.6.0-1
+  status: outdated
+  maintainers:
+    - pkg-phototools-devel@lists.alioth.debian.org
+    - bremner@debian.org
+  categories:
+    - graphics
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: darktable
+  binnames:
+    - darktable
+  visiblename: darktable
+  version: 3.4.1
+  origversion: 3.4.1-5
+  status: outdated
+  maintainers:
+    - pkg-phototools-devel@lists.alioth.debian.org
+    - bremner@debian.org
+  categories:
+    - graphics
+- repo: npackd_stable64
+  srcname: darktable64
+  binname: darktable64
+  visiblename: Darktable 64 Bit
+  version: 4.4.2
+  origversion: null
+  status: legacy
+  licenses:
+    - Freeware
+  categories:
+    - Photo
+- repo: npackd_stable64
+  srcname: darktable64
+  binname: darktable64
+  visiblename: Darktable 64 Bit
+  version: "4.6"
+  origversion: null
+  status: legacy
+  licenses:
+    - Freeware
+  categories:
+    - Photo
+- repo: npackd_stable64
+  srcname: darktable64
+  binname: darktable64
+  visiblename: Darktable 64 Bit
+  version: 4.6.1
+  origversion: null
+  status: legacy
+  licenses:
+    - Freeware
+  categories:
+    - Photo
+- repo: npackd_stable64
+  srcname: darktable64
+  binname: darktable64
+  visiblename: Darktable 64 Bit
+  version: "4.8"
+  origversion: null
+  status: legacy
+  licenses:
+    - Freeware
+  categories:
+    - Photo
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: darktable
+  binnames:
+    - darktable
+  visiblename: darktable
+  version: 5.0.1
+  origversion: 5.0.1-2
+  status: outdated
+  maintainers:
+    - pkg-phototools-devel@lists.alioth.debian.org
+    - bremner@debian.org
+    - tino+debian@tikei.de
+  categories:
+    - graphics
+- repo: openbsd
+  srcname: graphics/darktable
+  binname: darktable
+  visiblename: graphics/darktable
+  version: 5.6.1
+  origversion: null
+  status: outdated
+  summary: virtual lighttable and darkroom for photographers
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - graphics
+- repo: npackd_stable64
+  srcname: darktable64
+  binname: darktable64
+  visiblename: Darktable 64 Bit
+  version: 4.8.1
+  origversion: null
+  status: legacy
+  licenses:
+    - Freeware
+  categories:
+    - Photo
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: darktable
+  binnames:
+    - darktable
+  visiblename: darktable
+  version: 4.2.1
+  origversion: 4.2.1-4
+  status: outdated
+  maintainers:
+    - pkg-phototools-devel@lists.alioth.debian.org
+    - bremner@debian.org
+  categories:
+    - graphics
+- repo: npackd_stable64
+  srcname: darktable64
+  binname: darktable64
+  visiblename: Darktable 64 Bit
+  version: "5"
+  origversion: null
+  status: legacy
+  licenses:
+    - Freeware
+  categories:
+    - Photo
+- repo: raspbian_stable
+  subrepo: main
+  srcname: darktable
+  binnames:
+    - darktable
+  visiblename: darktable
+  version: 5.0.1
+  origversion: 5.0.1-2
+  status: outdated
+  maintainers:
+    - pkg-phototools-devel@lists.alioth.debian.org
+    - bremner@debian.org
+    - tino+debian@tikei.de
+  categories:
+    - graphics
+- repo: raspbian_testing
+  subrepo: main
+  srcname: darktable
+  binnames:
+    - darktable
+  visiblename: darktable
+  version: 5.4.1
+  origversion: 5.4.1-1
+  status: outdated
+  maintainers:
+    - pkg-phototools-devel@lists.alioth.debian.org
+    - bremner@debian.org
+    - tino+debian@tikei.de
+  categories:
+    - graphics
+- repo: npackd_stable64
+  srcname: darktable64
+  binname: darktable64
+  visiblename: Darktable 64 Bit
+  version: 3.6.0.1
+  origversion: null
+  status: legacy
   licenses:
     - Freeware
   categories:
@@ -227,6 +398,19 @@
     - kdaudt@alpinelinux.org
   licenses:
     - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: darktable
+  binname: darktable-lang
+  visiblename: darktable-lang
+  version: 4.8.1
+  origversion: 4.8.1-r1
+  status: outdated
+  summary: Languages for package darktable
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
 - repo: alpine_3_19
   subrepo: community
   srcname: darktable
@@ -344,17 +528,15 @@
     - kdaudt@alpinelinux.org
   licenses:
     - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
+- repo: arch_testing
+  subrepo: extra-testing
   srcname: darktable
-  binname: darktable-lang
-  visiblename: darktable-lang
-  version: 4.8.1
-  origversion: 4.8.1-r1
-  status: outdated
-  summary: Languages for package darktable
-  maintainers:
-    - kdaudt@alpinelinux.org
+  binname: darktable
+  visiblename: darktable
+  version: 5.6.2
+  origversion: 2:5.6.2-2
+  status: newest
+  summary: Utility to organize and develop raw images
   licenses:
     - GPL-3.0-or-later
 - repo: alpine_3_22
@@ -381,17 +563,6 @@
   summary: Open source photography workflow application and raw developer (debug symbols)
   maintainers:
     - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: chimera
-  subrepo: main
-  srcname: darktable
-  binname: darktable-doc
-  visiblename: darktable-doc
-  version: 5.2.1
-  origversion: 5.2.1-r6
-  status: outdated
-  summary: Open source photography workflow application and raw developer (documentation)
   licenses:
     - GPL-3.0-or-later
 - repo: alpine_3_22
@@ -485,6 +656,18 @@
     - kdaudt@alpinelinux.org
   licenses:
     - GPL-3.0-or-later
+- repo: aur
+  srcname: darktable-git
+  binname: darktable-git
+  visiblename: darktable-git
+  version: 5.7.0.r2302.g1c4eaea9df
+  origversion: 5.7.0.r2302.g1c4eaea9df-1
+  status: rolling
+  summary: A virtual lighttable and darkroom for photographers
+  maintainers:
+    - pitbuster@aur
+  licenses:
+    - GPL3
 - repo: alpine_3_24
   subrepo: community
   srcname: darktable
@@ -511,17 +694,6 @@
     - kdaudt@alpinelinux.org
   licenses:
     - GPL-3.0-or-later
-- repo: chimera
-  subrepo: main
-  srcname: darktable
-  binname: darktable-locale
-  visiblename: darktable-locale
-  version: 5.2.1
-  origversion: 5.2.1-r6
-  status: outdated
-  summary: Open source photography workflow application and raw developer (locale data)
-  licenses:
-    - GPL-3.0-or-later
 - repo: alpine_3_24
   subrepo: community
   srcname: darktable
@@ -535,6 +707,17 @@
     - kdaudt@alpinelinux.org
   licenses:
     - GPL-3.0-or-later
+- repo: npackd_stable64
+  srcname: darktable64
+  binname: darktable64
+  visiblename: Darktable 64 Bit
+  version: 3.6.1
+  origversion: null
+  status: legacy
+  licenses:
+    - Freeware
+  categories:
+    - Photo
 - repo: alpine_edge
   subrepo: community
   srcname: darktable
@@ -642,18 +825,6 @@
   summary: Utility to organize and develop raw images
   licenses:
     - GPL-3.0-or-later
-- repo: aur
-  srcname: darktable-git
-  binname: darktable-git
-  visiblename: darktable-git
-  version: 5.5.0.r1641.gcb0eb56851
-  origversion: 5.5.0.r1641.gcb0eb56851-1
-  status: rolling
-  summary: A virtual lighttable and darkroom for photographers
-  maintainers:
-    - pitbuster@aur
-  licenses:
-    - GPL3
 - repo: artix
   subrepo: world
   srcname: darktable
@@ -661,6 +832,17 @@
   visiblename: darktable
   version: 5.6.2
   origversion: 2:5.6.2-1
+  status: newest
+  summary: Utility to organize and develop raw images
+  licenses:
+    - GPL-3.0-or-later
+- repo: artix_testing
+  subrepo: world-gremlins
+  srcname: darktable
+  binname: darktable
+  visiblename: darktable
+  version: 5.6.2
+  origversion: 2:5.6.2-2
   status: newest
   summary: Utility to organize and develop raw images
   licenses:
@@ -674,6 +856,28 @@
   origversion: 5.2.1-r6
   status: outdated
   summary: Open source photography workflow application and raw developer
+  licenses:
+    - GPL-3.0-or-later
+- repo: chimera
+  subrepo: main
+  srcname: darktable
+  binname: darktable-doc
+  visiblename: darktable-doc
+  version: 5.2.1
+  origversion: 5.2.1-r6
+  status: outdated
+  summary: Open source photography workflow application and raw developer (documentation)
+  licenses:
+    - GPL-3.0-or-later
+- repo: chimera
+  subrepo: main
+  srcname: darktable
+  binname: darktable-locale
+  visiblename: darktable-locale
+  version: 5.2.1
+  origversion: 5.2.1-r6
+  status: outdated
+  summary: Open source photography workflow application and raw developer (locale data)
   licenses:
     - GPL-3.0-or-later
 - repo: chimera
@@ -761,6 +965,28 @@
     - tino+debian@tikei.de
   categories:
     - misc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: darktable
+  binname: darktable
+  visiblename: darktable
+  version: 5.6.1
+  origversion: 2:5.6.1-3
+  status: outdated
+  summary: Utility to organize and develop raw images
+  licenses:
+    - GPL-3.0-or-later
+- repo: npackd_stable64
+  srcname: darktable64
+  binname: darktable64
+  visiblename: Darktable 64 Bit
+  version: "3.8"
+  origversion: null
+  status: legacy
+  licenses:
+    - Freeware
+  categories:
+    - Photo
 - repo: debian_14
   subrepo: forky/main
   srcname: darktable
@@ -917,6 +1143,23 @@
   categories:
     - Unspecified
 - repo: fedora_40
+  subrepo: release
+  srcname: darktable
+  binnames:
+    - darktable
+    - darktable-tools-noise
+    - darktable-debuginfo
+    - darktable-debugsource
+  visiblename: darktable
+  version: 4.6.1
+  origversion: 4.6.1-2.fc40
+  status: legacy
+  summary: Utility to organize and develop raw images
+  licenses:
+    - GPLv3+
+  categories:
+    - Unspecified
+- repo: fedora_40
   subrepo: updates
   srcname: darktable
   binnames:
@@ -932,23 +1175,6 @@
   summary: Utility to organize and develop raw images
   licenses:
     - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_40
-  subrepo: release
-  srcname: darktable
-  binnames:
-    - darktable
-    - darktable-tools-noise
-    - darktable-debuginfo
-    - darktable-debugsource
-  visiblename: darktable
-  version: 4.6.1
-  origversion: 4.6.1-2.fc40
-  status: legacy
-  summary: Utility to organize and develop raw images
-  licenses:
-    - GPLv3+
   categories:
     - Unspecified
 - repo: fedora_41
@@ -983,22 +1209,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: release
-  srcname: darktable
-  binnames:
-    - darktable
-    - darktable-tools-noise
-    - darktable-tools-basecurve
-  visiblename: darktable
-  version: 5.0.1
-  origversion: 5.0.1-1.fc42
-  status: legacy
-  summary: Utility to organize and develop raw images
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: updates
   srcname: darktable
   binnames:
@@ -1014,17 +1224,17 @@
     - GPL-3.0-or-later
   categories:
     - Unspecified
-- repo: fedora_43
-  subrepo: updates
+- repo: fedora_42
+  subrepo: release
   srcname: darktable
   binnames:
     - darktable
     - darktable-tools-noise
     - darktable-tools-basecurve
   visiblename: darktable
-  version: 5.6.1
-  origversion: 5.6.1-2.fc43
-  status: outdated
+  version: 5.0.1
+  origversion: 5.0.1-1.fc42
+  status: legacy
   summary: Utility to organize and develop raw images
   licenses:
     - GPL-3.0-or-later
@@ -1041,6 +1251,22 @@
   version: 5.2.1
   origversion: 5.2.1-3.fc43
   status: legacy
+  summary: Utility to organize and develop raw images
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: darktable
+  binnames:
+    - darktable
+    - darktable-tools-noise
+    - darktable-tools-basecurve
+  visiblename: darktable
+  version: 5.6.1
+  origversion: 5.6.1-2.fc43
+  status: outdated
   summary: Utility to organize and develop raw images
   licenses:
     - GPL-3.0-or-later
@@ -1115,7 +1341,7 @@
   binname: darktable
   visiblename: graphics/darktable
   version: 5.4.1
-  origversion: 5.4.1_1
+  origversion: 5.4.1_2
   status: outdated
   summary: Virtual lighttable and darkroom for photographers
   maintainers:
@@ -1150,24 +1376,6 @@
     - CC-BY-3.0
   categories:
     - media-gfx
-- repo: mageia_9
-  subrepo: core/release
-  srcname: darktable
-  binnames:
-    - darktable
-    - darktable-tools-noise
-    - darktable-tools-basecurve
-    - darktable-debuginfo
-    - darktable-debugsource
-  visiblename: darktable
-  version: 4.2.1
-  origversion: 4.2.1-1.mga9
-  status: legacy
-  summary: Open source photography workflow application and RAW developer
-  licenses:
-    - GPLv3+
-  categories:
-    - Graphics/Photography
 - repo: gentoo
   srcname: media-gfx/darktable
   visiblename: media-gfx/darktable
@@ -1204,17 +1412,6 @@
   origversion: null
   status: outdated
   summary: Virtual lighttable and darkroom for photographers
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: darktable
-  binname: darktable
-  visiblename: darktable
-  version: 5.6.2
-  origversion: 2:5.6.2-1
-  status: newest
-  summary: Utility to organize and develop raw images
-  licenses:
-    - GPL-3.0-or-later
 - repo: gobolinux
   srcname: Darktable
   visiblename: Darktable
@@ -1273,6 +1470,17 @@
     - CC-BY-3.0
   categories:
     - media-gfx
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: darktable
+  binname: darktable
+  visiblename: darktable
+  version: 5.6.2
+  origversion: 2:5.6.2-1
+  status: newest
+  summary: Utility to organize and develop raw images
+  licenses:
+    - GPL-3.0-or-later
 - repo: liguros_stable
   srcname: media-gfx/darktable
   visiblename: media-gfx/darktable
@@ -1301,20 +1509,6 @@
     - CC-BY-3.0
   categories:
     - media-gfx
-- repo: nix_stable_25_05
-  srcname: darktable
-  visiblename: darktable
-  version: 5.0.1
-  origversion: null
-  status: outdated
-  summary: Virtual lighttable and darkroom for photographers
-  maintainers:
-    - mail@markus-kohlhase.de
-    - contact@ingolf-wagner.de
-    - mica@silentumbrella.com
-    - freya@arbjerg.dev
-  licenses:
-    - GPL-3.0-or-later
 - repo: liguros_develop
   srcname: media-gfx/darktable
   visiblename: media-gfx/darktable
@@ -1391,78 +1585,6 @@
     - GPL-3+
   categories:
     - graphics
-- repo: mageia_9
-  subrepo: core/updates
-  srcname: darktable
-  binnames:
-    - darktable
-    - darktable-tools-noise
-    - darktable-tools-basecurve
-    - darktable-debuginfo
-    - darktable-debugsource
-  visiblename: darktable
-  version: 4.4.2
-  origversion: 4.4.2-1.mga9
-  status: legacy
-  summary: Open source photography workflow application and RAW developer
-  licenses:
-    - GPLv3+
-  categories:
-    - Graphics/Photography
-- repo: mageia_9
-  subrepo: core/updates
-  srcname: darktable
-  binnames:
-    - darktable
-    - darktable-tools-noise
-    - darktable-tools-basecurve
-    - darktable-debuginfo
-    - darktable-debugsource
-  visiblename: darktable
-  version: 4.6.1
-  origversion: 4.6.1-1.1.mga9
-  status: outdated
-  summary: Open source photography workflow application and RAW developer
-  licenses:
-    - GPLv3+
-  categories:
-    - Graphics/Photography
-- repo: mageia_9
-  subrepo: core/updates
-  srcname: darktable
-  binnames:
-    - darktable
-    - darktable-tools-noise
-    - darktable-tools-basecurve
-    - darktable-debuginfo
-    - darktable-debugsource
-  visiblename: darktable
-  version: 4.6.1
-  origversion: 4.6.1-1.2.mga9
-  status: outdated
-  summary: Open source photography workflow application and RAW developer
-  licenses:
-    - GPLv3+
-  categories:
-    - Graphics/Photography
-- repo: mageia_9
-  subrepo: core/updates
-  srcname: darktable
-  binnames:
-    - darktable
-    - darktable-tools-noise
-    - darktable-tools-basecurve
-    - darktable-debuginfo
-    - darktable-debugsource
-  visiblename: darktable
-  version: 4.6.1
-  origversion: 4.6.1-1.mga9
-  status: outdated
-  summary: Open source photography workflow application and RAW developer
-  licenses:
-    - GPLv3+
-  categories:
-    - Graphics/Photography
 - repo: mageia_10
   subrepo: core/release
   srcname: darktable
@@ -1629,6 +1751,20 @@
     - freya@arbjerg.dev
   licenses:
     - GPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: darktable
+  visiblename: darktable
+  version: 5.0.1
+  origversion: null
+  status: outdated
+  summary: Virtual lighttable and darkroom for photographers
+  maintainers:
+    - mail@markus-kohlhase.de
+    - contact@ingolf-wagner.de
+    - mica@silentumbrella.com
+    - freya@arbjerg.dev
+  licenses:
+    - GPL-3.0-or-later
 - repo: nix_stable_25_11
   srcname: darktable
   visiblename: darktable
@@ -1657,6 +1793,18 @@
     - freya@arbjerg.dev
   licenses:
     - GPL-3.0-or-later
+- repo: pkgsrc_2026_3
+  srcname: graphics/darktable
+  binname: darktable
+  visiblename: graphics/darktable
+  version: 5.0.0
+  origversion: 5.0.0nb23
+  status: outdated
+  summary: Photography workflow application
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - graphics
 - repo: nix_unstable
   srcname: darktable
   visiblename: darktable
@@ -1685,7 +1833,7 @@
   srcname: darktable64
   binname: darktable64
   visiblename: Darktable 64 Bit
-  version: 3.6.0.1
+  version: 5.0.1
   origversion: null
   status: legacy
   licenses:
@@ -1696,7 +1844,7 @@
   srcname: darktable64
   binname: darktable64
   visiblename: Darktable 64 Bit
-  version: 3.6.1
+  version: "5.2"
   origversion: null
   status: legacy
   licenses:
@@ -1707,124 +1855,13 @@
   srcname: darktable64
   binname: darktable64
   visiblename: Darktable 64 Bit
-  version: "3.8"
+  version: 5.2.1
   origversion: null
   status: legacy
   licenses:
     - Freeware
   categories:
     - Photo
-- repo: npackd_stable64
-  srcname: darktable64
-  binname: darktable64
-  visiblename: Darktable 64 Bit
-  version: 3.8.1
-  origversion: null
-  status: legacy
-  licenses:
-    - Freeware
-  categories:
-    - Photo
-- repo: npackd_stable64
-  srcname: darktable64
-  binname: darktable64
-  visiblename: Darktable 64 Bit
-  version: "4"
-  origversion: null
-  status: legacy
-  licenses:
-    - Freeware
-  categories:
-    - Photo
-- repo: npackd_stable64
-  srcname: darktable64
-  binname: darktable64
-  visiblename: Darktable 64 Bit
-  version: 4.0.1
-  origversion: null
-  status: legacy
-  licenses:
-    - Freeware
-  categories:
-    - Photo
-- repo: npackd_stable64
-  srcname: darktable64
-  binname: darktable64
-  visiblename: Darktable 64 Bit
-  version: "4.2"
-  origversion: null
-  status: legacy
-  licenses:
-    - Freeware
-  categories:
-    - Photo
-- repo: npackd_stable64
-  srcname: darktable64
-  binname: darktable64
-  visiblename: Darktable 64 Bit
-  version: 4.2.1
-  origversion: null
-  status: legacy
-  licenses:
-    - Freeware
-  categories:
-    - Photo
-- repo: npackd_stable64
-  srcname: darktable64
-  binname: darktable64
-  visiblename: Darktable 64 Bit
-  version: 4.4.2
-  origversion: null
-  status: legacy
-  licenses:
-    - Freeware
-  categories:
-    - Photo
-- repo: npackd_stable64
-  srcname: darktable64
-  binname: darktable64
-  visiblename: Darktable 64 Bit
-  version: "4.6"
-  origversion: null
-  status: legacy
-  licenses:
-    - Freeware
-  categories:
-    - Photo
-- repo: npackd_stable64
-  srcname: darktable64
-  binname: darktable64
-  visiblename: Darktable 64 Bit
-  version: "4.8"
-  origversion: null
-  status: legacy
-  licenses:
-    - Freeware
-  categories:
-    - Photo
-- repo: npackd_stable64
-  srcname: darktable64
-  binname: darktable64
-  visiblename: Darktable 64 Bit
-  version: 4.8.1
-  origversion: null
-  status: legacy
-  licenses:
-    - Freeware
-  categories:
-    - Photo
-- repo: openbsd
-  srcname: graphics/darktable
-  binname: darktable
-  visiblename: graphics/darktable
-  version: 5.6.1
-  origversion: null
-  status: outdated
-  summary: virtual lighttable and darkroom for photographers
-  maintainers:
-    - ports@openbsd.org
-  categories:
-    - graphics
 - repo: openmamba
   subrepo: base
   srcname: darktable
@@ -1963,7 +2000,7 @@
   categories:
     - graphics
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: darktable
   binnames:
     - darktable
@@ -1978,7 +2015,7 @@
   categories:
     - graphics
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: darktable
   binnames:
     - darktable
@@ -2025,18 +2062,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - graphics
-- repo: pkgsrc_2026_3
-  srcname: graphics/darktable
-  binname: darktable
-  visiblename: graphics/darktable
-  version: 5.0.0
-  origversion: 5.0.0nb23
-  status: outdated
-  summary: Photography workflow application
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - graphics
 - repo: pkgsrc_current
   srcname: graphics/darktable
   binname: darktable
@@ -2047,99 +2072,6 @@
   summary: Photography workflow application
   maintainers:
     - pkgsrc-users@netbsd.org
-  categories:
-    - graphics
-- repo: pld
-  srcname: darktable
-  visiblename: darktable
-  version: 5.6.2
-  origversion: 5.6.2-1
-  status: newest
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: darktable
-  binnames:
-    - darktable
-  visiblename: darktable
-  version: 2.6.0
-  origversion: 2.6.0-1
-  status: outdated
-  maintainers:
-    - pkg-phototools-devel@lists.alioth.debian.org
-    - bremner@debian.org
-  categories:
-    - graphics
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: darktable
-  binnames:
-    - darktable
-  visiblename: darktable
-  version: 3.4.1
-  origversion: 3.4.1-5
-  status: outdated
-  maintainers:
-    - pkg-phototools-devel@lists.alioth.debian.org
-    - bremner@debian.org
-  categories:
-    - graphics
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: darktable
-  binnames:
-    - darktable
-  visiblename: darktable
-  version: 5.0.1
-  origversion: 5.0.1-2
-  status: outdated
-  maintainers:
-    - pkg-phototools-devel@lists.alioth.debian.org
-    - bremner@debian.org
-    - tino+debian@tikei.de
-  categories:
-    - graphics
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: darktable
-  binnames:
-    - darktable
-  visiblename: darktable
-  version: 4.2.1
-  origversion: 4.2.1-4
-  status: outdated
-  maintainers:
-    - pkg-phototools-devel@lists.alioth.debian.org
-    - bremner@debian.org
-  categories:
-    - graphics
-- repo: raspbian_stable
-  subrepo: main
-  srcname: darktable
-  binnames:
-    - darktable
-  visiblename: darktable
-  version: 5.0.1
-  origversion: 5.0.1-2
-  status: outdated
-  maintainers:
-    - pkg-phototools-devel@lists.alioth.debian.org
-    - bremner@debian.org
-    - tino+debian@tikei.de
-  categories:
-    - graphics
-- repo: raspbian_testing
-  subrepo: main
-  srcname: darktable
-  binnames:
-    - darktable
-  visiblename: darktable
-  version: 5.4.1
-  origversion: 5.4.1-1
-  status: outdated
-  maintainers:
-    - pkg-phototools-devel@lists.alioth.debian.org
-    - bremner@debian.org
-    - tino+debian@tikei.de
   categories:
     - graphics
 - repo: ravenports
