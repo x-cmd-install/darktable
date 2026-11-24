@@ -14,13 +14,13 @@ x install darktable
 
 ## Code insight
 
-Total: **803,495** lines of code across **1057** files in the top 5 languages.
+Total: **803,575** lines of code across **1057** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 442,905 | 68,781 | 68,136 | 598 |
+| C | 442,957 | 68,796 | 68,144 | 598 |
 | Json | 215,275 | 0 | 0 | 10 |
-| CHeader | 31,795 | 20,417 | 8,322 | 358 |
+| CHeader | 31,815 | 20,421 | 8,323 | 358 |
 | Lua | 29,080 | 136 | 414 | 15 |
 | Svg | 19,508 | 75 | 74 | 76 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-10-04)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 13,494 · **Forks**: 1,535 · **Open issues**: 9,674 · **Contributors**: 582
+- **Stars**: 13,500 · **Forks**: 1,535 · **Open issues**: 9,680 · **Contributors**: 581
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 11708 · **Open PRs**: 104 · **Closed issues**: 9147 · **Open issues**: 527 · **Commits**: 48735
+- **Releases**: 84 · **Merged PRs**: 11712 · **Open PRs**: 107 · **Closed issues**: 9150 · **Open issues**: 530 · **Commits**: 48744
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 287 | 45 | 52 | 53 | 661 |
-| last60d | 2026-09-24 | 2 | 493 | 57 | 152 | 101 | 1218 |
-| 90d | 2026-08-25 | 3 | 703 | 66 | 244 | 149 | 1571 |
-| last180d | 2026-05-27 | 4 | 1112 | 87 | 480 | 252 | 2366 |
-| 360d | 2025-11-28 | 6 | 1819 | 98 | 860 | 394 | 3944 |
-| last720d | 2024-12-03 | 10 | 2670 | 101 | 1703 | 464 | 6108 |
+| 30d | 2026-10-25 | 1 | 282 | 47 | 49 | 58 | 670 |
+| last60d | 2026-09-25 | 2 | 490 | 60 | 148 | 101 | 1227 |
+| 90d | 2026-08-26 | 3 | 704 | 68 | 236 | 153 | 1580 |
+| last180d | 2026-05-28 | 4 | 1110 | 90 | 480 | 256 | 2375 |
+| 360d | 2025-11-29 | 6 | 1822 | 101 | 859 | 399 | 3952 |
+| last720d | 2024-12-04 | 10 | 2669 | 104 | 1704 | 467 | 6110 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **181** distros on [repology.org](https://repology.org/project/darktable). **41** are ✅ on the latest upstream release, **106** are ⚠️ on an older version.
+Reported by **181** distros on [repology.org](https://repology.org/project/darktable). **42** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -106,4 +106,4 @@ Install metadata for darktable lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:42:44Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:52:45Z._
