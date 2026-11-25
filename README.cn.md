@@ -14,19 +14,19 @@ x install darktable
 
 ## 代码洞察
 
-合计: **803,575** 行代码（覆盖前 5 种语言、共 **1057** 个文件）。
+合计: **803,514** 行代码（覆盖前 5 种语言、共 **1057** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 442,957 | 68,796 | 68,144 | 598 |
+| C | 442,969 | 68,804 | 68,149 | 598 |
 | Json | 215,275 | 0 | 0 | 10 |
-| CHeader | 31,815 | 20,421 | 8,323 | 358 |
+| CHeader | 31,816 | 20,425 | 8,323 | 358 |
 | Lua | 29,080 | 136 | 414 | 15 |
 | Svg | 19,508 | 75 | 74 | 76 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.8 / 10**
+总评分: **5.6 / 10**
 
 评分最低的几项:
 
@@ -48,22 +48,22 @@ x install darktable
 
 ## 流行度
 
-- **Star**: 13,500 · **Fork**: 1,535 · **开放 issue**: 9,680 · **贡献者**: 581
+- **Star**: 13,501 · **Fork**: 1,535 · **开放 issue**: 9,683 · **贡献者**: 582
 
 ## 累计统计
 
-- **发布数**: 84 · **已合并 PR**: 11712 · **开放 PR**: 107 · **已关闭 issue**: 9150 · **开放 issue**: 530 · **提交数**: 48744
+- **发布数**: 84 · **已合并 PR**: 11716 · **开放 PR**: 105 · **已关闭 issue**: 9154 · **开放 issue**: 529 · **提交数**: 48751
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 282 | 47 | 49 | 58 | 670 |
-| last60d | 2026-09-25 | 2 | 490 | 60 | 148 | 101 | 1227 |
-| 90d | 2026-08-26 | 3 | 704 | 68 | 236 | 153 | 1580 |
-| last180d | 2026-05-28 | 4 | 1110 | 90 | 480 | 256 | 2375 |
-| 360d | 2025-11-29 | 6 | 1822 | 101 | 859 | 399 | 3952 |
-| last720d | 2024-12-04 | 10 | 2669 | 104 | 1704 | 467 | 6110 |
+| 30d | 2026-10-26 | 1 | 280 | 45 | 51 | 57 | 677 |
+| last60d | 2026-09-26 | 2 | 486 | 58 | 150 | 102 | 1234 |
+| 90d | 2026-08-27 | 3 | 703 | 66 | 232 | 152 | 1587 |
+| last180d | 2026-05-29 | 4 | 1112 | 88 | 481 | 256 | 2382 |
+| 360d | 2025-11-30 | 6 | 1824 | 99 | 858 | 399 | 3959 |
+| last720d | 2024-12-05 | 10 | 2668 | 102 | 1704 | 466 | 6107 |
 
 ## Release 资产
 
@@ -79,24 +79,6 @@ x install darktable
 | [darktable-5.6.2.tar.xz](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2.tar.xz) | 8.1 MiB | `other` |
 | [darktable-5.6.2.tar.xz.asc](https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2.tar.xz.asc) | 195 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/darktable) 上共有 **181** 个发行版报告此项目。**42** 个 ✅ 已是最新上游版本，**105** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `5.4.1` | ⚠️ outdated |
-| Debian 14 | `5.4.1` | ⚠️ outdated |
-| Debian 13 | `5.0.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `5.4.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `4.6.1` | ⚠️ outdated |
-| Arch | `5.6.2` | ✅ latest |
-| Fedora rawhide | `5.6.1` | ⚠️ outdated |
-| Nix unstable | `5.6.2` | ✅ latest |
-| Void | `5.6.2` | ✅ latest |
-| Alpine edge | `5.6.2` | ✅ latest |
-| openSUSE Tumbleweed | `5.6.2` | ✅ latest |
-
 ## 改进这些数据
 
 darktable 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `darktable` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -106,4 +88,4 @@ darktable 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:52:46Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:24:13Z._
